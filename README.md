@@ -1,6 +1,6 @@
 # Overview
 QuestMarker is a simple, top-down game where you go on fetch quests for objects that all look the same. You can use WASD or the arrow keys
-to move. From there follow the quest marker.
+to move. From there, all you need to know is to follow the quest marker.
 
 While learning how to use arcade with python, I knew I could never make a grand open-world RPG, but I could make a minimalist parody of 
 a grand open-world RPG. The game is one fatch quest after another, with cringy referencial humor, and an arrow telling you where to go at
